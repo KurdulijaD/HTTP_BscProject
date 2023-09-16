@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4zHu7tJp60zGIQnevhVtJvn3YJ8a6nSDqAWBPi0cOPY=",
+  "Source": "HTTP API Application",
+  "BasePath": "_content/HTTP API Application",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
